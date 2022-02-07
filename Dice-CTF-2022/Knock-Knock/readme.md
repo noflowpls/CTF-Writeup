@@ -7,7 +7,7 @@ This chall is strange and really cool also and make me to learn node js from bas
 # Vuln detect
 So, there is two mistake in source code if you look carefully.
 
-1. In below, you can see the `this.secret` object will craete a hash with `randomUUID`. but this will just return a `undefined` [Example file](https://github.com/Vimer101/private-ctf-solves/blob/main/Dice-CTF-2022/Knock-Knock/example.js). 
+1. In below, you can see the `this.secret` object will craete a hash with `randomUUID`. but this will just return a `undefined` [Example file](https://github.com/ComdeyOverflow/CTF-Writeup/blob/main/Dice-CTF-2022/Knock-Knock/example.js). 
   **don't ask me why because i am noob at js**
 ```
 class Database {
