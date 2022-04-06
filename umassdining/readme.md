@@ -38,7 +38,7 @@ Then, we set the `document.location.href` property to send the `document.cookie`
 So, Submit it on essay path in `/register` and wait 3 seconds and auth cookie have arrived to our ngrok server.
 
 # Takeaway
-If you are doing xss on site, pay attention to all js files of it and also console if your friend.
+If you are doing xss on site, pay attention to all js files of it and also console is your friend.
 
 `syntax` is really weird and browser is strange all time :)
 
